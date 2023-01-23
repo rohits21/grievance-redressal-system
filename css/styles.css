@@ -70,3 +70,16 @@ body{
    
    
 }
+
+/* Login file */
+
+.login-html{
+    text-align: center;
+}
+
+.login-form{
+    margin-top: 10%;
+    background-color: white;
+    width: 500px;
+    padding: 20px;
+}
